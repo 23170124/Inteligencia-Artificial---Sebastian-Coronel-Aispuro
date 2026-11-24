@@ -1,0 +1,19 @@
+## Requisitos e Instalación
+
+- Python: 3.12 o superior (probado en Python 3.14).
+- Cámara web funcional (integrada o USB).
+
+Instala las dependencias necesarias ejecutando:
+
+- pip install tensorflow opencv-contrib-python matplotlib
+
+## orden para correr el proyecto
+1.- PruebaCamara(Recolectar Dataset)
+2.- Entrenar(entrenar con las fotos recolectadas del dataset)
+3.- CamaraVivo(Prueba para validar que reconoce las caras)
+
+## Enlace de video mostrando funcionamiento
+
+https://youtu.be/MH6vBcRBBig
+
+

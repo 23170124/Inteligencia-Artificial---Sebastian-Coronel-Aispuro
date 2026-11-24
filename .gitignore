@@ -1,2 +1,6 @@
 *.class
 bin/
+
+.venv/
+.venv312/
+*.joblib
